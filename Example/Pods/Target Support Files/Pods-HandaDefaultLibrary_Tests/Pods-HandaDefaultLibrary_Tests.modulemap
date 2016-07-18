@@ -1,0 +1,6 @@
+framework module Pods_HandaDefaultLibrary_Tests {
+  umbrella header "Pods-HandaDefaultLibrary_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HandaDefaultLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of HandaDefaultLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/HandaDefaultLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dduk02": "dduk02@handasoft.co.kr"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/HandaDefaultLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HandaDefaultLibrary/Classes/**/*"
+}

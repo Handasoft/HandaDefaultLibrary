@@ -1,0 +1,6 @@
+framework module HandaDefaultLibrary {
+  umbrella header "HandaDefaultLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

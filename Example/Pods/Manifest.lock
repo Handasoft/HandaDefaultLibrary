@@ -1,0 +1,14 @@
+PODS:
+  - HandaDefaultLibrary (0.1.0)
+
+DEPENDENCIES:
+  - HandaDefaultLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  HandaDefaultLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HandaDefaultLibrary: 8d2d8a6feb0d8474a8a9151328ba5a4b4606b456
+
+COCOAPODS: 0.39.0
