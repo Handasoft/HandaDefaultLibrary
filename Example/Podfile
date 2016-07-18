@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HandaDefaultLibrary_Tests' do
+  pod 'HandaDefaultLibrary', :path => '../'
+  
+  
+end
